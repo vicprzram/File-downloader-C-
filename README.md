@@ -1,4 +1,4 @@
-# 🚀 File Downloader DLL - URLDownloadToFile
+# 🚀 File Downloader using C++
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" />
@@ -111,7 +111,6 @@ The exported function expects both values separated by a space.
 | File | Description |
 |------|-------------|
 | `DownloadFiles.cpp` | Main DLL source |
-| `pch.h` | Precompiled header |
 | `README.md` | Project documentation |
 
 ---
